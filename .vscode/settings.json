@@ -4,5 +4,6 @@
         "titleBar.activeBackground": "#643411",
         "titleBar.activeForeground": "#FEFBF9"
     },
-    "headwind.runOnSave": false
+    "headwind.runOnSave": false,
+    "audioCues.volume": 0
 }
